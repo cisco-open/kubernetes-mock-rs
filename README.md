@@ -4,7 +4,7 @@
 
 Mock [Kubernetes](https://kubernetes.io/) client for testing things that interact with the [Kubernetes API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), including [controllers](https://kubernetes.io/docs/concepts/architecture/controller/).
 
-View documentation, examples, and more by running `make doc`. (link to docs.rs to come when published!)
+View documentation, examples, and more on [docs.rs](https://docs.rs/kubernetes-mock/) and [crates.io](https://crates.io/crates/kubernetes-mock)!
 
 488 lines of code, but that's 24% doc comments.
 
