@@ -1,5 +1,7 @@
 # kubernetes-mock-rs
 
+[![Rust](https://github.com/cisco-open/kubernetes-mock-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/cisco-open/kubernetes-mock-rs/actions/workflows/rust.yml)
+
 Mock [Kubernetes](https://kubernetes.io/) client for testing things that interact with the [Kubernetes API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), including [controllers](https://kubernetes.io/docs/concepts/architecture/controller/).
 
 View documentation, examples, and more by running `make doc`. (link to docs.rs to come when published!)
